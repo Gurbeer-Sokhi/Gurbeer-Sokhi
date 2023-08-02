@@ -1,4 +1,4 @@
-# 💫 Hi There I am Gurbeer - Software Developer
+# 💫 Hi There, I am Gurbeer - Software Developer
 🔭 I’m a computer science major at Stevens Institute of Technology<br>👯 I’m looking to collaborate on any React and spring boot projects<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about my career trajectory
 
 
