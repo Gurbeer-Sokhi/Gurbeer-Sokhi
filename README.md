@@ -1,5 +1,5 @@
 # 💫 Hi There, I am Gurbeer - Software Developer
-🔭 I’m a computer science major at Stevens Institute of Technology<br>👯 I’m looking to collaborate on any React and spring boot projects<br>🌱 I’m currently learning Spring boot<br>💬 Ask me about my career trajectory <br>📫 How to reach me: gsokhi@stevens.edu or on [LinkedIn](https://www.linkedin.com/in/gurbeersinghsokhi/)
+🔭 I’m a computer science major at Stevens Institute of Technology<br>👯 I’m looking to collaborate on any React and spring boot projects<br>🌱 I’m currently working on freelance projects<br>💬 Ask me about my career trajectory <br>📫 How to reach me: gsokhi@stevens.edu or on [LinkedIn](https://www.linkedin.com/in/gurbeersinghsokhi/)
 
 
 ## 🌐 Socials:
